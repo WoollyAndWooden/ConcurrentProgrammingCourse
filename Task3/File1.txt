@@ -1,0 +1,6 @@
+To jest test wejściowy
+\input{File2.txt}
+Ten plik ma 3 wystąpienia
+\input{File3.txt}
+plik plik
+\input{File4.txt}

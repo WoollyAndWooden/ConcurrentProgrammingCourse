@@ -1,0 +1,2 @@
+ZAPOMNIALEM O PLIKU 6
+\input{File6.txt}

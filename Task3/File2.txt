@@ -1,0 +1,4 @@
+plik plik plik plik
+to oto to to
+\input{File5.txt}
+plik

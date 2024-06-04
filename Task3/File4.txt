@@ -1,0 +1,2 @@
+plik pliczuniek pliczulo
+\input{File7.txt}

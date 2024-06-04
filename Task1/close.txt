@@ -1,0 +1,1 @@
+To shut down the server remove this file
